@@ -1,0 +1,4 @@
+[submodule "hardware/firmware"]
+	path = hardware/firmware
+	url = https://github.com/ktsin/transport-dash.git
+	branch = 2bp
