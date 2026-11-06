@@ -1,0 +1,11 @@
+<Solution>
+  <Project Path="TrainQueen.MobileClient.Android/TrainQueen.MobileClient.Android.csproj">
+    <Deploy />
+  </Project>
+  <Project Path="TrainQueen.MobileClient.Browser/TrainQueen.MobileClient.Browser.csproj" />
+  <Project Path="TrainQueen.MobileClient.Desktop/TrainQueen.MobileClient.Desktop.csproj" />
+  <Project Path="TrainQueen.MobileClient.iOS/TrainQueen.MobileClient.iOS.csproj">
+    <Deploy />
+  </Project>
+  <Project Path="TrainQueen.MobileClient/TrainQueen.MobileClient.csproj" />
+</Solution>
