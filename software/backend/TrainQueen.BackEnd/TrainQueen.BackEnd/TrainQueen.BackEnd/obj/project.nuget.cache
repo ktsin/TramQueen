@@ -1,0 +1,64 @@
+{
+  "version": 2,
+  "dgSpecHash": "5S1MlpehBoM=",
+  "success": true,
+  "projectFilePath": "/Users/ktsin/PROJECTS/TrainQueen/software/backend/TrainQueen.BackEnd/TrainQueen.BackEnd/TrainQueen.BackEnd/TrainQueen.BackEnd.csproj",
+  "expectedPackageFiles": [
+    "/Users/ktsin/.nuget/packages/microsoft.aspnetcore.app.internal.assets/10.0.0/microsoft.aspnetcore.app.internal.assets.10.0.0.nupkg.sha512",
+    "/Users/ktsin/.nuget/packages/microsoft.aspnetcore.authorization/10.0.0/microsoft.aspnetcore.authorization.10.0.0.nupkg.sha512",
+    "/Users/ktsin/.nuget/packages/microsoft.aspnetcore.components/10.0.0/microsoft.aspnetcore.components.10.0.0.nupkg.sha512",
+    "/Users/ktsin/.nuget/packages/microsoft.aspnetcore.components.analyzers/10.0.0/microsoft.aspnetcore.components.analyzers.10.0.0.nupkg.sha512",
+    "/Users/ktsin/.nuget/packages/microsoft.aspnetcore.components.forms/10.0.0/microsoft.aspnetcore.components.forms.10.0.0.nupkg.sha512",
+    "/Users/ktsin/.nuget/packages/microsoft.aspnetcore.components.web/10.0.0/microsoft.aspnetcore.components.web.10.0.0.nupkg.sha512",
+    "/Users/ktsin/.nuget/packages/microsoft.aspnetcore.components.webassembly/10.0.0/microsoft.aspnetcore.components.webassembly.10.0.0.nupkg.sha512",
+    "/Users/ktsin/.nuget/packages/microsoft.aspnetcore.components.webassembly.server/10.0.0/microsoft.aspnetcore.components.webassembly.server.10.0.0.nupkg.sha512",
+    "/Users/ktsin/.nuget/packages/microsoft.aspnetcore.metadata/10.0.0/microsoft.aspnetcore.metadata.10.0.0.nupkg.sha512",
+    "/Users/ktsin/.nuget/packages/microsoft.dotnet.hotreload.webassembly.browser/10.0.100/microsoft.dotnet.hotreload.webassembly.browser.10.0.100.nupkg.sha512",
+    "/Users/ktsin/.nuget/packages/microsoft.extensions.configuration/10.0.0/microsoft.extensions.configuration.10.0.0.nupkg.sha512",
+    "/Users/ktsin/.nuget/packages/microsoft.extensions.configuration.abstractions/10.0.0/microsoft.extensions.configuration.abstractions.10.0.0.nupkg.sha512",
+    "/Users/ktsin/.nuget/packages/microsoft.extensions.configuration.binder/10.0.0/microsoft.extensions.configuration.binder.10.0.0.nupkg.sha512",
+    "/Users/ktsin/.nuget/packages/microsoft.extensions.configuration.fileextensions/10.0.0/microsoft.extensions.configuration.fileextensions.10.0.0.nupkg.sha512",
+    "/Users/ktsin/.nuget/packages/microsoft.extensions.configuration.json/10.0.0/microsoft.extensions.configuration.json.10.0.0.nupkg.sha512",
+    "/Users/ktsin/.nuget/packages/microsoft.extensions.dependencyinjection/10.0.0/microsoft.extensions.dependencyinjection.10.0.0.nupkg.sha512",
+    "/Users/ktsin/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/10.0.0/microsoft.extensions.dependencyinjection.abstractions.10.0.0.nupkg.sha512",
+    "/Users/ktsin/.nuget/packages/microsoft.extensions.diagnostics/10.0.0/microsoft.extensions.diagnostics.10.0.0.nupkg.sha512",
+    "/Users/ktsin/.nuget/packages/microsoft.extensions.diagnostics.abstractions/10.0.0/microsoft.extensions.diagnostics.abstractions.10.0.0.nupkg.sha512",
+    "/Users/ktsin/.nuget/packages/microsoft.extensions.fileproviders.abstractions/10.0.0/microsoft.extensions.fileproviders.abstractions.10.0.0.nupkg.sha512",
+    "/Users/ktsin/.nuget/packages/microsoft.extensions.fileproviders.physical/10.0.0/microsoft.extensions.fileproviders.physical.10.0.0.nupkg.sha512",
+    "/Users/ktsin/.nuget/packages/microsoft.extensions.filesystemglobbing/10.0.0/microsoft.extensions.filesystemglobbing.10.0.0.nupkg.sha512",
+    "/Users/ktsin/.nuget/packages/microsoft.extensions.logging/10.0.0/microsoft.extensions.logging.10.0.0.nupkg.sha512",
+    "/Users/ktsin/.nuget/packages/microsoft.extensions.logging.abstractions/10.0.0/microsoft.extensions.logging.abstractions.10.0.0.nupkg.sha512",
+    "/Users/ktsin/.nuget/packages/microsoft.extensions.options/10.0.0/microsoft.extensions.options.10.0.0.nupkg.sha512",
+    "/Users/ktsin/.nuget/packages/microsoft.extensions.options.configurationextensions/10.0.0/microsoft.extensions.options.configurationextensions.10.0.0.nupkg.sha512",
+    "/Users/ktsin/.nuget/packages/microsoft.extensions.primitives/10.0.0/microsoft.extensions.primitives.10.0.0.nupkg.sha512",
+    "/Users/ktsin/.nuget/packages/microsoft.extensions.validation/10.0.0/microsoft.extensions.validation.10.0.0.nupkg.sha512",
+    "/Users/ktsin/.nuget/packages/microsoft.jsinterop/10.0.0/microsoft.jsinterop.10.0.0.nupkg.sha512",
+    "/Users/ktsin/.nuget/packages/microsoft.jsinterop.webassembly/10.0.0/microsoft.jsinterop.webassembly.10.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'Microsoft.AspNetCore.Components.WebAssembly.Server' 10.0.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-g27p-qf6j-c96c",
+      "projectPath": "/Users/ktsin/PROJECTS/TrainQueen/software/backend/TrainQueen.BackEnd/TrainQueen.BackEnd/TrainQueen.BackEnd/TrainQueen.BackEnd.csproj",
+      "warningLevel": 1,
+      "filePath": "/Users/ktsin/PROJECTS/TrainQueen/software/backend/TrainQueen.BackEnd/TrainQueen.BackEnd/TrainQueen.BackEnd/TrainQueen.BackEnd.csproj",
+      "libraryId": "Microsoft.AspNetCore.Components.WebAssembly.Server",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'Microsoft.AspNetCore.Components.WebAssembly.Server' 10.0.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-qjpx-jqm5-h2c4",
+      "projectPath": "/Users/ktsin/PROJECTS/TrainQueen/software/backend/TrainQueen.BackEnd/TrainQueen.BackEnd/TrainQueen.BackEnd/TrainQueen.BackEnd.csproj",
+      "warningLevel": 1,
+      "filePath": "/Users/ktsin/PROJECTS/TrainQueen/software/backend/TrainQueen.BackEnd/TrainQueen.BackEnd/TrainQueen.BackEnd/TrainQueen.BackEnd.csproj",
+      "libraryId": "Microsoft.AspNetCore.Components.WebAssembly.Server",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}

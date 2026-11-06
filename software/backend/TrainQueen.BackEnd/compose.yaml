@@ -1,0 +1,13 @@
+﻿services:
+  trainqueen.backend.client:
+    image: trainqueen.backend.client
+    build:
+      context: .
+      dockerfile: TrainQueen.BackEnd/TrainQueen.BackEnd.Client/Dockerfile
+
+  trainqueen.backend:
+    image: trainqueen.backend
+    build:
+      context: .
+      dockerfile: TrainQueen.BackEnd/TrainQueen.BackEnd/Dockerfile
+

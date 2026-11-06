@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="compose.yaml" />
+  </Folder>
+  <Project Path="TrainQueen.BackEnd/TrainQueen.BackEnd.Client/TrainQueen.BackEnd.Client.csproj" />
+  <Project Path="TrainQueen.BackEnd/TrainQueen.BackEnd/TrainQueen.BackEnd.csproj" />
+</Solution>
